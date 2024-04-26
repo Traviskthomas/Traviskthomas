@@ -1,4 +1,4 @@
-<h1>Greetings, my name is Travis. I am an <a href="https://linkedin.com/in/traviskthomas33">IT Professional</a></h1>
+<h1>Greetings, my name is Travis. I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT Professional and Digital Marketing Specialist</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
