@@ -1,6 +1,8 @@
-<h1>Greetings, my name is Travis. I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT Professional and Digital Marketing Specialist</a></h1>
+<h1>Travis Thomas 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT Professional and Digital Marketing Specialist</a></h1>
+
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/traviskthomas/osticket-prereqs)
