@@ -1,6 +1,6 @@
 <h1>Travis Thomas 
 
-  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT Professional and Digital Marketing Specialist</a></h1>
+  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT/Cyber Security Professional and Digital Marketing Specialist</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
