@@ -1,6 +1,6 @@
 <h1>Travis Thomas 
 
-  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT/Cyber Security Professional and Digital Marketing Specialist</a></h1>
+  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT/Cybersecurity Professional and Digital Marketing Specialist</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/traviskthomas/azure-network-protocols)
 
 
-<h2>Cyber Security Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 <h2>Digital Marketing Projects:</h2>
 
