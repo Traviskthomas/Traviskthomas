@@ -2,7 +2,11 @@
 
   I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT/Cybersecurity Professional and Digital Marketing Specialist</a></h1>
 
-<h2>Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2> 
+
+![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/69b86c70-ec2b-47e4-a8d8-c63c2e3a7923)
+
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/traviskthomas/osticket-prereqs)
@@ -13,10 +17,15 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/traviskthomas/azure-network-protocols)
 
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects (Coming Soon):</h2>
 
-<h2>Digital Marketing Projects:</h2>
 
+![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/477cd655-c1fe-4219-bcc1-8358ee128aa4)
+
+
+<h2>Digital Marketing Projects (Coming Soon):</h2>
+
+![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/b297b56a-b172-4285-b4da-3abad64cce6c)
 
 
 <h2>🤳Connect with me on:</h2>
