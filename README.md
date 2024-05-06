@@ -20,7 +20,7 @@
 <h2>Digital Marketing Projects:</h2>
 
 ![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/b297b56a-b172-4285-b4da-3abad64cce6c)
- - [osTicket: Prerequisites and Installation](https://github.com/traviskthomas/osticket-prereqs)
+
 
 <h2>🤳Connect with me on:</h2>
 
