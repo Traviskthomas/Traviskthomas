@@ -1,6 +1,6 @@
 <h1>Travis Thomas 
 
-  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT/Cybersecurity Professional and Digital Marketing Specialist</a></h1>
+  I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT Professional and Digital Marketing Specialist</a></h1>
 
 <h2>Information Technology Projects:</h2> 
 
@@ -17,13 +17,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/traviskthomas/azure-network-protocols)
 
 
-<h2>Cybersecurity Projects (Coming Soon):</h2>
-
-
-![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/477cd655-c1fe-4219-bcc1-8358ee128aa4)
-
-
-<h2>Digital Marketing Projects (Coming Soon):</h2>
+<h2>Digital Marketing Projects:</h2>
 
 ![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/b297b56a-b172-4285-b4da-3abad64cce6c)
  - [osTicket: Prerequisites and Installation](https://github.com/traviskthomas/osticket-prereqs)
