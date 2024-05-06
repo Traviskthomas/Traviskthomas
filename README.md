@@ -4,7 +4,8 @@
 
 <h2>Information Technology Projects:</h2> 
 
-![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/69b86c70-ec2b-47e4-a8d8-c63c2e3a7923)
+![IT Gif 1](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/2cb3123b-bf82-4eba-a6a8-5cfa008babe2)
+
 
 
 
@@ -19,7 +20,10 @@
 
 <h2>Digital Marketing Projects:</h2>
 
-![image](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/b297b56a-b172-4285-b4da-3abad64cce6c)
+![DM Gif1](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/9b2c6325-5cb6-4e1c-88d6-41baf2baf10e)
+
+
+
 
 - <b>Front End Web Development</b>
   - https://github.com/Traviskthomas/Front-End-Web-Development
