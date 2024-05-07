@@ -26,7 +26,13 @@
 
 
 - <b>Front End Web Development</b>
-  - https://github.com/Traviskthomas/Front-End-Web-Development
+
+   
+  - [Front End Web Development: Google Sites](https://github.com/Traviskthomas/Front-End-Web-Development)
+
+ - <b>Photography/Videography</b>
+   - https://github.com/Traviskthomas/Photography-Videography 
+
 
 <h2>🤳Connect with me on:</h2>
 
