@@ -6,10 +6,11 @@
 
 ![IT Gif 1](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/2cb3123b-bf82-4eba-a6a8-5cfa008babe2)
 
-
+- <b>osTicket
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: osTicket-Prerequisites and Installation
   - [osTicket: Post-Installation Configuration](https://github.com/traviskthomas/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/traviskthomas/ticket-lifecycle)
 - <b>Microsoft Azure</b>
