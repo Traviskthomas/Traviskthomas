@@ -3,6 +3,11 @@
   HEY! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  My name is Travis Thomas. I am an aspiring <a href="https://linkedin.com/in/traviskthomas33">IT Professional and Digital Marketing Specialist</a></h1> 
 
+ ## OBJECTIVE
+
+To acquire relevant experience that will lead to a successful career in IT and Digital Marketing.
+
+
 <h2>Information Technology Projects:</h2> 
 
 ![IT Gif 1](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/2cb3123b-bf82-4eba-a6a8-5cfa008babe2)
