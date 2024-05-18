@@ -20,6 +20,7 @@ To acquire relevant experience that will lead to a successful career in IT and D
   - [osTicket: Post-Installation Configuration](https://github.com/traviskthomas/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/traviskthomas/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Azure Cloud Computing](https://github.com/Traviskthomas/Azure-Cloud-Computing/blob/main/README.md) 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/traviskthomas/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/traviskthomas/azure-network-protocols)
 
