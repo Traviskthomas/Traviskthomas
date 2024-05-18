@@ -40,9 +40,8 @@ To acquire relevant experience that will lead to a successful career in IT and D
 
 - <b>Social Media Management/Digital Marketing
 
-  - [Social Media Management: Facebook](https://www.facebook.com/people/Nteu-Cp-Onefivenine/100076461456225/)
-  - [Social Media Management: Instagram](https://www.instagram.com/kingtravelegend/?igsh=MTU5dmRtemt2NjRw)
-
+  - [Social Media Management: Facebook and Instagram](https://github.com/Traviskthomas/Social-Media-Management/blob/main/README.md)
+  
 <h2>🤳Connect with me on:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
