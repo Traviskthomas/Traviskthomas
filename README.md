@@ -12,8 +12,6 @@ To acquire relevant experience that will lead to a successful career in IT and D
 
 ![IT Gif 1](https://github.com/Traviskthomas/Traviskthomas/assets/166442537/2cb3123b-bf82-4eba-a6a8-5cfa008babe2)
 
-- <b>osTicket
-
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: osTicket-Prerequisites and Installation](https://github.com/Traviskthomas/osticket-prereqs)  
