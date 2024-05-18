@@ -40,7 +40,7 @@ To acquire relevant experience that will lead to a successful career in IT and D
 
 - <b>Social Media Management/Digital Marketing
 
-  - [Social Media Management/Digital Marketing: Facebook, and Instagram](https://www.facebook.com/people/Nteu-Cp-Onefivenine/100076461456225/https://www.instagram.com/kingtravelegend/?igsh=MTU5dmRtemt2NjRw) 
+  - [Social Media Management/Digital Marketing: Facebook, and Instagram](https://www.facebook.com/people/Nteu-Cp-Onefivenine/100076461456225/) 
 
 <h2>🤳Connect with me on:</h2>
 
